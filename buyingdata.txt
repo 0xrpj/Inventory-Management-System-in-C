@@ -1,5 +1,6 @@
-potato 34.00 54.00
-saag 12.00 23.00
-patta 45.00 56.00
-Saag 12.00 56.00
-Potato 23.00 56.00
+potato 25.00 56.00
+Spinach 12.00 23.00
+Cauli 45.00 56.00
+Brinjal 12.00 56.00
+Lasun 1.00 20.00
+Aduwa 3.00 30.00
