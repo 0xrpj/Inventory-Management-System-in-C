@@ -2,7 +2,7 @@
 
 A simple yet useful C program  to take care of inventories on a small vegetable shop.
 
-```NOTE: The password 'gaida' is used everywhere on the application.```
+```NOTE: The password 'gaida' is used throughout on the application.```
 
 # Features:
    - Basic CRUD operations on a local file.
